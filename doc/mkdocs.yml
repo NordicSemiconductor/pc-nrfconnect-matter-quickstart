@@ -57,3 +57,4 @@ extra:
 
 nav:
   - Home: index.md
+  - Overview and user interface: overview.md
